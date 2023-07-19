@@ -28,3 +28,9 @@ The goal of this project is to identify the locations of each functional tissue 
 </h1>
 
 * This project could help accelerate the world's understanding of the relationships between the organization of cells and tissues. With a better idea of the relationship of cells, researchers will have more information about the function of cells that affect human health. It will be available for use by researchers and pharmaceutical companies alike, potentially improving and prolonging human life.
+
+<h1 align="left">
+<b>Architecture of Neural Network</b>
+</h1>
+
+<img src="AtlasAI - Neural Network.png" />
